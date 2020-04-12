@@ -1,3 +1,5 @@
+Superseded by https://github.com/srk/QuantVec - all content will be migrated there over time.
+
 # AIMPAC2-Suite
 Current release: *'Fresnel'*
 
